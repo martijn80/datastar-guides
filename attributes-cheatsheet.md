@@ -1,7 +1,7 @@
 # Datastar attributes Cheatsheet 
 
 What Datastar attributes can accept values, which don't and which accept sets/pairs (`{ ... }`) and what modifiers can be used. 
-See [all modifiers and their tags per attribute](/attribute-modifier-tags-cheatsheet).
+See [all modifiers and their tags per attribute](/attribute-modifier-tags-cheatsheet.md).
 
 ## Free attributes
 
